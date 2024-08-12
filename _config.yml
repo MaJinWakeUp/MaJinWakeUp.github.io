@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jin Ma"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at Clemson University"
+  bio              : "PhD Student"
   location         : "South Carolina, USA"
   employer         : "Clemson University"
   uri              : # URL
@@ -38,7 +38,6 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
-  CV               : "https://scholar.google.com/citations?user=UUPDTacAAAAJ&hl=en"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
