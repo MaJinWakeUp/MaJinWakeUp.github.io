@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jin Ma / Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jin Ma"
 description              : &description "PhD student at Clemson University"
@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Jin Ma"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student"
-  location         : "USA"
+  bio              : "PhD Student at Clemson University"
+  location         : "South Carolina, USA"
   employer         : "Clemson University"
   uri              : # URL
   email            : "jin7@clemson.edu" 
@@ -38,7 +38,7 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
-  CV               : ""
+  CV               : "https://scholar.google.com/citations?user=UUPDTacAAAAJ&hl=en"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -292,7 +292,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
