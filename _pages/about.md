@@ -1,31 +1,22 @@
 ---
 permalink: /
-title: "Jin Ma - Personal Homepage"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+I am currently a second year Ph.D student in the School of Computing, Clemson University. My research topics and interests are the trustworthiness of AI and AI for security, including the adversarial attack and defense of perception system, cyber harassment detection with LLM, and ML-enabled biometric authentication. 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science, Clemson University, 2023--2028(expected).
+* Visiting Student, Singapore University of Technology and Design, Summer 2024.
+* M.S. in Software Engineering, Xi'an Jiaotong University, 2019.
+* B.S. in Information and Computing Science, Xi'an Jiaotong University, 2016.
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Algorithm engineer, Chengdu Hsintiao Medical and Technology Company. October 2020–July 2021.
+* R&D engineer, Southeast Research Institute, China Unicom. Augest 2019–September 2020.

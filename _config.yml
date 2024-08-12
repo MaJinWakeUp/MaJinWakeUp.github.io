@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "Jin Ma / Homepage"
 title_separator          : "-"
 name                     : &name "Jin Ma"
-description              : &description "PhD student at Clemson University"
+description              : &description "Ph.D student at Clemson University"
 url                      : https://majinwakeup.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "majinwakeup/majinwakeup.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Jin Ma"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student"
+  bio              : "Ph.D Student"
   location         : "South Carolina, USA"
   employer         : "Clemson University"
   uri              : # URL
@@ -79,7 +79,7 @@ publication_category:
     # title: 'Books'
   conferences:
     title: 'Conference Papers'
-  manuscripts:
+  journals:
     title: 'Journal Articles'    
   
 
