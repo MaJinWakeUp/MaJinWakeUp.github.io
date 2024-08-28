@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D in Computer Science, Clemson University, 2023--2028(expected).
 * Visiting Student, Singapore University of Technology and Design, Summer 2024.
+* Ph.D in Computer Science, Cleveland State University, 2021--2023(transfer out).
 * M.S. in Software Engineering, Xi'an Jiaotong University, 2019.
 * B.S. in Information and Computing Science, Xi'an Jiaotong University, 2016.
 
